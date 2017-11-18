@@ -141,7 +141,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
             // Here's an analogy. If you use Photoshop (or any image editing software for that matter)
             // And apply a mask to a layer with 0.0 opacity, was it really worth placing a mask on your layer if it's
             // basically non-existant?
-            mask.geometry?.firstMaterial?.transparency = 0.1
+            mask.geometry?.firstMaterial?.transparency = 0.00001
         }
     }
 }
