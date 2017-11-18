@@ -12,6 +12,7 @@
 		9A672C031FAE87C4005358E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A672C011FAE87C4005358E6 /* Main.storyboard */; };
 		9A672C051FAE87C4005358E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A672C041FAE87C4005358E6 /* Assets.xcassets */; };
 		9A672C081FAE87C4005358E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A672C061FAE87C4005358E6 /* LaunchScreen.storyboard */; };
+		9AE84F361FAFA1870007CC40 /* Portal.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 9AE84F351FAFA13E0007CC40 /* Portal.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9A672C041FAE87C4005358E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9A672C071FAE87C4005358E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9A672C091FAE87C4005358E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9AE84F351FAFA13E0007CC40 /* Portal.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = Portal.scnassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				9A672C011FAE87C4005358E6 /* Main.storyboard */,
 				9A672C041FAE87C4005358E6 /* Assets.xcassets */,
 				9A672C061FAE87C4005358E6 /* LaunchScreen.storyboard */,
+				9AE84F351FAFA13E0007CC40 /* Portal.scnassets */,
 				9A672C091FAE87C4005358E6 /* Info.plist */,
 			);
 			path = "AR Portal";
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9AE84F361FAFA1870007CC40 /* Portal.scnassets in Resources */,
 				9A672C081FAE87C4005358E6 /* LaunchScreen.storyboard in Resources */,
 				9A672C051FAE87C4005358E6 /* Assets.xcassets in Resources */,
 				9A672C031FAE87C4005358E6 /* Main.storyboard in Resources */,
